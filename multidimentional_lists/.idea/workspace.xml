@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfd7323e-62ca-448d-b875-5164f0603166" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../tuples-and-sets/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tuples-and-sets/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +30,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="Python.5_maximal_submatrix_sum">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\repos\python-advanced-demos\multidimentional_lists" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.spiral_matrix">
     <configuration name="2_sum_columns" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="multidimentional_lists" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="spiral_matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="multidimentional_lists" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,7 +137,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spiral_matrix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.spiral_matrix" />
         <item itemvalue="Python.5_maximal_submatrix_sum" />
         <item itemvalue="Python.4_symbol_in_matrix" />
         <item itemvalue="Python.3_primary_diagonalk" />
         <item itemvalue="Python.2_sum_columns" />
-        <item itemvalue="Python.demo" />
       </list>
     </recent_temporary>
   </component>
@@ -174,6 +179,8 @@
       <option name="presentableId" value="Default" />
       <updated>1579795458396</updated>
       <workItem from="1579795468690" duration="9870000" />
+      <workItem from="1580140941547" duration="45000" />
+      <workItem from="1580145247698" duration="1311000" />
     </task>
     <servers />
   </component>
@@ -185,28 +192,56 @@
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="709" y="299" key="FileChooserDialogImpl/0.0.1858.1080@0.0.1858.1080" timestamp="1579804220081" />
-    <state width="1815" height="412" key="GridCell.Tab.0.bottom" timestamp="1579806783990">
+    <state width="1815" height="364" key="GridCell.Tab.0.bottom" timestamp="1580146559804">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="412" key="GridCell.Tab.0.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1579806783990" />
-    <state width="1815" height="412" key="GridCell.Tab.0.center" timestamp="1579806783990">
+    <state width="1815" height="364" key="GridCell.Tab.0.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1580146559804" />
+    <state width="1815" height="364" key="GridCell.Tab.0.center" timestamp="1580146559803">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="412" key="GridCell.Tab.0.center/0.0.1858.1080@0.0.1858.1080" timestamp="1579806783990" />
-    <state width="1815" height="412" key="GridCell.Tab.0.left" timestamp="1579806783989">
+    <state width="1815" height="364" key="GridCell.Tab.0.center/0.0.1858.1080@0.0.1858.1080" timestamp="1580146559803" />
+    <state width="1815" height="364" key="GridCell.Tab.0.left" timestamp="1580146559803">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="412" key="GridCell.Tab.0.left/0.0.1858.1080@0.0.1858.1080" timestamp="1579806783989" />
-    <state width="1815" height="412" key="GridCell.Tab.0.right" timestamp="1579806783990">
+    <state width="1815" height="364" key="GridCell.Tab.0.left/0.0.1858.1080@0.0.1858.1080" timestamp="1580146559803" />
+    <state width="1815" height="364" key="GridCell.Tab.0.right" timestamp="1580146559804">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="412" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1579806783990" />
+    <state width="1815" height="364" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1580146559804" />
+    <state width="1815" height="364" key="GridCell.Tab.1.bottom" timestamp="1580146559804">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="364" key="GridCell.Tab.1.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1580146559804" />
+    <state width="1815" height="364" key="GridCell.Tab.1.center" timestamp="1580146559804">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="364" key="GridCell.Tab.1.center/0.0.1858.1080@0.0.1858.1080" timestamp="1580146559804" />
+    <state width="1815" height="364" key="GridCell.Tab.1.left" timestamp="1580146559804">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="364" key="GridCell.Tab.1.left/0.0.1858.1080@0.0.1858.1080" timestamp="1580146559804" />
+    <state width="1815" height="364" key="GridCell.Tab.1.right" timestamp="1580146559804">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="364" key="GridCell.Tab.1.right/0.0.1858.1080@0.0.1858.1080" timestamp="1580146559804" />
     <state x="592" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1579798276377">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="592" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1858.1080@0.0.1858.1080" timestamp="1579798276377" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/spiral_matrix.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/multidimentional_lists$spiral_matrix.coverage" NAME="spiral_matrix Coverage Results" MODIFIED="1580146077344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/multidimentional_lists$2_sum_columns.coverage" NAME="2_sum_columns Coverage Results" MODIFIED="1579801373888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/multidimentional_lists$demo.coverage" NAME="demo Coverage Results" MODIFIED="1579800591222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/multidimentional_lists$5_maximal_submatrix_sum.coverage" NAME="5_maximal_submatrix_sum Coverage Results" MODIFIED="1579806656929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
